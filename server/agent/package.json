@@ -1,0 +1,7 @@
+{
+  "name": "ai-cybersec-agent",
+  "version": "0.1.0",
+  "main": "agent.js",
+  "scripts": { "start": "node agent.js" },
+  "dependencies": { "socket.io-client": "^4.7.0", "systeminformation": "^5.12.0" }
+}
